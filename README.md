@@ -1,6 +1,8 @@
 # Привет, меня зовут Максим.
 
-Я python-разработчик, по направлениям:
+Я python-разработчик.
+
+# Стек
 - Fast API
 - Django
 - pyTelegramBotAPI
