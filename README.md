@@ -7,6 +7,7 @@
 - Django
 
 # Cтек умений:
+= pyCharm
 - Git
 - GitHub
 - Unit Testing
