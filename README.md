@@ -2,11 +2,25 @@
 
 Я python-разработчик.
 
-# Стек
+# Фреймворки
 - Fast API
 - Django
+
+# Cтек умений:
+- Git
+- GitHub
+- Unit Testing
 - pyTelegramBotAPI
-- Базы данных SQL
+- SQL
+- SQLite
+- SQLAlchemy
+- ORM
+- aiogram
+- FastApi
+- Django Framework
+- Django Rest Framework
+- C#
+- MS Visual Studio
 
 # О себе:
 Выпускник по направлению "Информатика и вычислительная техника".
