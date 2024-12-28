@@ -50,5 +50,5 @@
    - 2.4. Журнал тренировок
    - 2.5. Доска объявлений на Django
    - 2.6. Проект "Tower Defense Game"
-Cсылка: https://github.com/Maksim1dubna/PractictsForJob
+* Cсылка: https://github.com/Maksim1dubna/PractictsForJob
 4. Дипломный проект курсов программирования по тестированию ORM на языке python: Django ORM, SQL ALchemy, Tortoise ORM. Ссылка на проект: https://github.com/Maksim1dubna/diploma
