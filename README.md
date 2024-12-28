@@ -6,7 +6,7 @@
 - Fast API
 - Django
 
-# Cтек умений:
+# Cтеки
 - pyCharm
 - Git
 - GitHub
