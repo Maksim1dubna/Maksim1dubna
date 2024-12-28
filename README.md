@@ -7,6 +7,13 @@
 - Django
 
 # Cтеки
+- pandas
+- aiogram
+- matplotlib
+- plotly
+- tkinter
+- telebot
+- tkinter
 - pyCharm
 - Git
 - GitHub
@@ -16,12 +23,12 @@
 - SQLite
 - SQLAlchemy
 - ORM
-- aiogram
 - FastApi
 - Django Framework
 - Django Rest Framework
 - C#
 - MS Visual Studio
+Также pygame
 
 # О себе:
 Выпускник по направлению "Информатика и вычислительная техника".
