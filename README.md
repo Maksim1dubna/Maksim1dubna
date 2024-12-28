@@ -28,7 +28,7 @@
 - Django Rest Framework
 - C#
 - MS Visual Studio
-Также pygame
+- Также pygame
 
 # О себе:
 Выпускник по направлению "Информатика и вычислительная техника".
